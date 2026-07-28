@@ -1,0 +1,7 @@
+{
+    "name": "petsphere/website",
+    "description": "Pet Sphere - Final Year Project",
+    "require": {
+        "php": ">=8.0"
+    }
+}
